@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JAVA and Nest.JS
 - 👯 I’m looking to collaborate on any Front-end of Full Stack Project/s.
 - 🤔 I’m looking for a JOB!
+- 😄 I'm Positive, Cooperatively, Persistent, Courteous
 - 📫 How to reach me:
 <div style="display:flex; flex-direction:row;>
 <a href="https://chitty12.tistory.com/">
