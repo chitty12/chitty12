@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=209652&background=FF8DEA00&center=true&vCenter=true&width=404&height=53&lines=+%F0%9F%91%8B+HI%2C+I'm+Tae+Young!;Back-End+Developer)](https://git.io/typing-svg)
 
 
+## ✍🏻 About me
 - 🌱 I’m currently learning JAVA and Nest.JS
 - 👯 I’m looking to collaborate on any Front-end of Full Stack Project/s.
 - 🤔 I’m looking for a JOB!
@@ -39,7 +40,6 @@ Here are some ideas to get you started:
 </br>
 
 
-## ✍🏻 About me
 
 
 <!-- <a href="https://polydactyl-cello-2db.notion.site/Kim-Sehwa-c4920e2528ae4e7bb40869f320fc859d?pvs=4">
@@ -61,18 +61,8 @@ Here are some ideas to get you started:
 
 ### My GitHub Statistics
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chitty12&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&repo=github-readme-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EliusHHimel&theme=android-dark)](https://git.io/streak-stats)
-</div>
-
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=chitty12&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
-</a> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EliusHHimel&theme=android-dark)(https://git.io/streak-stats)
--->
 
 
 ### Top Languages
@@ -133,6 +123,22 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=chitty12)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+
+
+### My Recent Projects
+
+| | | 
+| :--: | :--: |
+| `Song-Letter` ![Song-Letter][Song-Letter] | `Motimates` ![Motimates][Motimates] | 
+| |
+
+[Song-Letter]: https://github-readme-stats.vercel.app/api/pin/?username=sesacproj1&repo=A_Team_Proj&theme=vision-friendly-dark&show_icons=true
+[Motimates]: https://github-readme-stats.vercel.app/api/pin/?username=SesacProjectTeamA-2&repo=pj-back&theme=vision-friendly-dark&show_icons=true
+
+
+
+</br>
+### Thanks to visit My Github!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchitty12&count_bg=%23FFB0A4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
