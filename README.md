@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <div style="display:flex; flex-direction:row;>
 <a href="https://chitty12.tistory.com/">
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
-</a>
+<!-- </a>
 <a href="https://gravel-nose-35e.notion.site/Choi-Tae-Young-eaca05b843954fd39aa6fe8aecfdd6b8?pvs=4">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white&logo=Notion"> 
 </a> 
-</div>
+</div> -->
 
 <!-- <a href="https://polydactyl-cello-2db.notion.site/Kim-Sehwa-c4920e2528ae4e7bb40869f320fc859d?pvs=4">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white&logo=Notion"> 
