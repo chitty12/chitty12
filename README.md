@@ -44,7 +44,8 @@ Here are some ideas to get you started:
 
 ## 🙋🏻‍♀️ Introduction
 <div style= "text-align: center">
-<p> 안녕하세요! 끊임없이 배우고, 도전하는 것을 즐기며, 지치지 않고 끝까지 해결합니다. </p>
+<p> 안녕하세요! <br> 끊임없이 배우고, 도전하는 것을 즐기며, 지치지 않고 끝까지 해결하고자 합니다. </p>
+</div>
 
 
 
