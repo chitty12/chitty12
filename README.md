@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for a JOB!
 - 😄 I'm Positive, Cooperatively, Persistent, Courteous
 - 📫 How to reach me:
-<div style="display:flex; flex-direction:row;>
+<div style="display:flex; flex-direction:row;">
 <a href="https://chitty12.tistory.com/">
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
