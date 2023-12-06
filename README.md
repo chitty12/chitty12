@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </br>
 <br>
 
-### 👨‍💻 Programming and markup languages
+## 👨‍💻 Programming and markup languages
 
 
 <p>
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></a> -->
 </p>
 
-### 🧰 Frameworks and libraries
+## 🧰 Frameworks and libraries
 
 <p>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 </p>
 
-### 🗄️ Databases and cloud hosting
+## 🗄️ Databases and cloud hosting
 
 <p>    
     <a href="#"><img alt="MySql", src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>  
@@ -102,9 +102,9 @@ Here are some ideas to get you started:
 </p>
 
 </br>
+<br>
 
-
-### My GitHub Statistics
+## My GitHub Statistics
 
 <div align="center">
 
@@ -119,8 +119,9 @@ Here are some ideas to get you started:
 
 </div>
 </br>
+<br>
 
-### My Recent Projects
+## My Recent Projects
 
 | | | 
 | :--: | :--: |
@@ -135,13 +136,10 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-
+<br>
 </br>
 
-### Thanks to visit My Github!
+## Thanks to visit My Github!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchitty12&count_bg=%23FFB0A4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
