@@ -52,18 +52,29 @@ Here are some ideas to get you started:
 </br>
 </br>
 
+
+
 ### My GitHub Statistics
 
+<p>
+   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chitty12&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&repo=github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chitty12&theme=android-dark)](https://git.io/streak-stats)
+</p>
 
-
+   
 ### Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitty12&theme=chartreuse-dark&layout=compact)
 
+
+### 🏆️ GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=chitty12&theme=darkhub&row=2&column=3&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <br>
-   
+
 ### 👨‍💻 Programming and markup languages
 
 
@@ -116,11 +127,6 @@ Here are some ideas to get you started:
 </br>
 </br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chitty12)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
 ### My Recent Projects
 
 | | | 
@@ -130,6 +136,13 @@ Here are some ideas to get you started:
 
 [Motimates]: https://github-readme-stats.vercel.app/api/pin/?username=SesacProjectTeamA-2&repo=pj-back&theme=vision-friendly-dark&show_icons=true
 [Song-Letter]: https://github-readme-stats.vercel.app/api/pin/?username=sesacproj1&repo=A_Team_Proj&theme=vision-friendly-dark&show_icons=true
+
+
+
+
+
+
+
 
 
 
