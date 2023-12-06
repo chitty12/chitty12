@@ -125,11 +125,11 @@ Here are some ideas to get you started:
 
 | | | 
 | :--: | :--: |
-| `Song-Letter` ![Song-Letter][Song-Letter] | `Motimates` ![Motimates][Motimates] | 
+|<a href="https://github.com/SesacProjectTeamA-2">`Motimates` ![Motimates][Motimates]</a> | <a href="https://github.com/sesacproj1/A_Team_Proj">`Song-Letter` ![Song-Letter][Song-Letter]</a> | 
 | |
 
-[Song-Letter]: https://github-readme-stats.vercel.app/api/pin/?username=sesacproj1&repo=A_Team_Proj&theme=vision-friendly-dark&show_icons=true
 [Motimates]: https://github-readme-stats.vercel.app/api/pin/?username=SesacProjectTeamA-2&repo=pj-back&theme=vision-friendly-dark&show_icons=true
+[Song-Letter]: https://github-readme-stats.vercel.app/api/pin/?username=sesacproj1&repo=A_Team_Proj&theme=vision-friendly-dark&show_icons=true
 
 
 
