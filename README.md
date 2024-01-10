@@ -67,13 +67,14 @@ Here are some ideas to get you started:
 ## 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?style=flat-square&logo=express&logoColor=white"></a>
+    <a href="#"><img alt="socket.io" src="https://img.shields.io/badge/socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"></a>
     <a href="#"><img alt="Nest.js" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white"></a> 
-    <a href="#"><img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-4B0082.svg?logo=sequelize&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-4B0082.svg?style=flat-square&logo=sequelize&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="EJS" src="https://img.shields.io/badge/EJS-89CFF0.svg?logo=ejs&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="EJS" src="https://img.shields.io/badge/EJS-89CFF0.svg?style=flat-square&logo=ejs&logoColor=white"></a>
 
 
 </p>
@@ -81,9 +82,10 @@ Here are some ideas to get you started:
 ## 🗄️ Databases and cloud hosting
 
 <p>    
-    <a href="#"><img alt="MySql", src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>  
+    <a href="#"><img alt="MySql", src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
+    <a href="#"><img alt="Redis", src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></a> 
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-    <a href="#"><img alt="Naver Cloud Platform" src="https://img.shields.io/badge/NCP-03C75A.svg?logo=naver&logoColor=white"></a>
+    <a href="#"><img alt="Naver Cloud Platform" src="https://img.shields.io/badge/NCP-03C75A.svg?style=flat-square&logo=naver&logoColor=white"></a>
 
 </a>  
 
@@ -92,6 +94,7 @@ Here are some ideas to get you started:
 
 <p>
     <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?logo=swagger&logoColor=black"></a>
+    <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
     <a href="#"><img alt="PuTTY" src="https://img.shields.io/badge/PuTTY-0F75BD.svg?logo=putty&logoColor=white"></a>
     <a href="#"><img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000.svg?logo=filezilla&logoColor=white"></a>
@@ -123,11 +126,12 @@ Here are some ideas to get you started:
 
 ## My Recent Projects
 
-| | | 
-| :--: | :--: |
-|<a href="https://github.com/SesacProjectTeamA-2">`Motimates` ![Motimates][Motimates]</a> | <a href="https://github.com/sesacproj1/A_Team_Proj">`Song-Letter` ![Song-Letter][Song-Letter]</a> | 
+| | | |
+| :--: | :--: | :--: |
+| <a href="https://github.com/SesacProjectTeamA-2/pj-develop">`Motimates:develop` ![Motimates:dev][Motimates:dev]</a> | <a href="https://github.com/SesacProjectTeamA-2">`Motimates` ![Motimates][Motimates]</a> | <a href="https://github.com/sesacproj1/A_Team_Proj">`Song-Letter` ![Song-Letter][Song-Letter]</a> | 
 
 
+[Motimates:dev]: https://github-readme-stats.vercel.app/api/pin/?username=SesacProjectTeamA-2&repo=pj-develop&theme=vision-friendly-dark&show_icons=true
 [Motimates]: https://github-readme-stats.vercel.app/api/pin/?username=SesacProjectTeamA-2&repo=pj-back&theme=vision-friendly-dark&show_icons=true
 [Song-Letter]: https://github-readme-stats.vercel.app/api/pin/?username=sesacproj1&repo=A_Team_Proj&theme=vision-friendly-dark&show_icons=true
 
