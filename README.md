@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 
 ## ✍🏻 About me
-- 🌱 I’m currently learning JAVA and Nest.JS
+- 🌱 I’m currently learning Python and C#
 - 👯 I’m looking to collaborate on any Back-end of Full Stack Project/s.
-- 🤔 I’m looking for a JOB!
+- 🤔 I’m working as a full-stack developer at Imprimed Korea.
 - 😄 I'm Positive, Cooperatively, Persistent, Courteous
 - 📫 How to reach me:
 <div style="display:flex; flex-direction:row;">
