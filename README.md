@@ -56,11 +56,13 @@ Here are some ideas to get you started:
 
 
 <p>
- <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
- <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>    
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+   <a href="https://github.com/search?q=language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+   <a href="https://github.com/search?q=language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white"></a>
+   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>    
+   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 <!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></a> -->
 </p>
 
@@ -68,9 +70,12 @@ Here are some ideas to get you started:
 
 <p>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?style=flat-square&logo=express&logoColor=white"></a>
+    <a href="https://github.com/search?q=flask"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
+    <a href="https://github.com/search?q=.net+6"><img alt=".NET 6" src="https://img.shields.io/badge/.NET%206-512BD4.svg?logo=.net&logoColor=white"></a>
     <a href="#"><img alt="socket.io" src="https://img.shields.io/badge/socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"></a>
     <a href="#"><img alt="Nest.js" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white"></a> 
     <a href="#"><img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-4B0082.svg?style=flat-square&logo=sequelize&logoColor=white"></a>
+    <a href="https://github.com/search?q=sqlalchemy"><img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00.svg?logo=sqlalchemy&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white"></a>
@@ -82,6 +87,7 @@ Here are some ideas to get you started:
 ## 🗄️ Databases and cloud hosting
 
 <p>    
+    <a href="https://github.com/search?q=postgresql"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="MySql", src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
     <a href="#"><img alt="Redis", src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></a> 
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
@@ -94,6 +100,7 @@ Here are some ideas to get you started:
 
 <p>
     <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?logo=swagger&logoColor=black"></a>
+    <a href="https://github.com/search?q=pycharm"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white"></a>
     <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
     <a href="#"><img alt="PuTTY" src="https://img.shields.io/badge/PuTTY-0F75BD.svg?logo=putty&logoColor=white"></a>
